@@ -1,0 +1,5 @@
+This is the test file for my Python hello.py program
+Specifically, it is for testing the file reading functionality
+In order to read the file simply run the 'File I/O' section of the program
+Not much more to say at this point except...
+Hello, world!
