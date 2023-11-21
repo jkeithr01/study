@@ -7,7 +7,7 @@ Study topics working repo
     Used for: HTTP request 
     URL: 
 ## Data Processing
-### [pandas](https://pandas.pydata.org/)
+### [pandas](https://pandas.pydata.org/){:target="_blank"}
     Used for: DataFrame programming (local processing) 
 ### Numpy
 ### Beautiful Soup
